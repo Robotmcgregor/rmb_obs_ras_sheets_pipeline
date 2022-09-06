@@ -1,0 +1,4 @@
+
+remote desktop
+
+-d C:\Users\admrmcgr\PycharmProjects\20210326_0620\20210325_0640\20210323_1308 -x C:\Users\admrmcgr\PycharmProjects\20210326_0620\20210325_0640\20210323_1308\outputs -r True -v C:\Users\admrmcgr\PycharmProjects\20210326_0620\20210325_0640\20210323_1308\odk_veg_list_final.xlsx -s C:\Users\admrmcgr\PycharmProjects\20210326_0620\20210325_0640\20210323_1308\dominantVegSplitDistricts2.xlsx
