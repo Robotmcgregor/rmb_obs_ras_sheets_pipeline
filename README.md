@@ -8,7 +8,7 @@ located within the property bounds. The property level start transect csv is in 
  
 All outputs are filed in their respective property directory located on the Darwin Working drive.
 
-Note: Due to the IT infrastructure of the remote desktop, the data extraction from ODK Aggregate is known to fail due to 
+**Note**: Due to the IT infrastructure of the remote desktop, the data extraction from ODK Aggregate is known to fail due to 
 a stale element error. Command prompt --time_sleep can be adjusted range should be between 5 and 20.
 
 ## Outputs
