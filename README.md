@@ -1,4 +1,4 @@
-# RMB Aggregate Pipeline
+# RMB Observation and RAS Sheet Pipeline
 
 **Description**: This pipeline comprises of 49 scripts which access ODK Aggregate and produce RAS and Observational sheets
 which are RLM database compliant. This pipeline produces cleaned csv file outputs and shapefies for each data point
