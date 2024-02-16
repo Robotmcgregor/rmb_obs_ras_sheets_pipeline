@@ -106,3 +106,43 @@ fabric.properties
 .idea/codestream.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm
+
+
+# Shapefiles
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp.xml   
+
+# image
+
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.tif
+*.tiff
+*.img.aux.xml
+
+# Pickle files
+*.pkl
+*.pickle
+**/*.pkl
+
+# database
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+*.ini
+
+
+# automation
+*.bat
+
+# Pycharm
+*.idea
+*.idea/*
